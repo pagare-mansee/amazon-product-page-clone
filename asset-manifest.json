@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/amazon-product-page-clone/static/css/main.66f3d09a.css",
+    "main.js": "/amazon-product-page-clone/static/js/main.6416d028.js",
+    "static/js/787.b01f7582.chunk.js": "/amazon-product-page-clone/static/js/787.b01f7582.chunk.js",
+    "static/media/Bimg3.jpg": "/amazon-product-page-clone/static/media/Bimg3.d6e57596fee1cf8c075b.jpg",
+    "static/media/Bimg1.jpg": "/amazon-product-page-clone/static/media/Bimg1.98f93b4bd66c2fb74828.jpg",
+    "static/media/Bimg2.jpg": "/amazon-product-page-clone/static/media/Bimg2.a3a14ec6ca899c512c6e.jpg",
+    "index.html": "/amazon-product-page-clone/index.html",
+    "main.66f3d09a.css.map": "/amazon-product-page-clone/static/css/main.66f3d09a.css.map",
+    "main.6416d028.js.map": "/amazon-product-page-clone/static/js/main.6416d028.js.map",
+    "787.b01f7582.chunk.js.map": "/amazon-product-page-clone/static/js/787.b01f7582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f3d09a.css",
+    "static/js/main.6416d028.js"
+  ]
+}
