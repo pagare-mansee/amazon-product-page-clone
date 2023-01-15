@@ -1,0 +1,13 @@
+
+.des
+{
+    
+    font-family: verdana,arial,helvetica,sans-serif;
+    font-size: 11px;
+    color: #666;
+}
+select{
+    border-radius: 4px;
+    padding: 3px;
+    border: 1px #ddd solid;
+}
